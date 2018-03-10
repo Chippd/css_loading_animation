@@ -1,8 +1,8 @@
 # CSS "Coding" animation
 
-### (http://chrisdermody.com/subscribing/?utm_source=github&utm_medium=css-loader-repo&utm_campaign=eng_mark)[Subscribe for tutorial]
+### [http://chrisdermody.com/subscribing/?utm_source=github&utm_medium=css-loader-repo&utm_campaign=eng_mark](Subscribe for tutorial)
 
-### (http://chrisdermody.com/css-only-coding-animation/)[Blog Post]
+### [http://chrisdermody.com/css-only-coding-animation/](Blog Post)
 
 #### [view the animation](https://chippd.github.io/css_loading_animation/)
 
